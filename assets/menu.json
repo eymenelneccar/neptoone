@@ -99,7 +99,7 @@
     "id": 1764769774272,
     "name": "شاي كوب",
     "category": "مشروبات ساخنة",
-    "price": 1000,
+    "price": 1500,
     "imageUrl": "/assets/images/1764851236249-c11fba60-d40c-4604-bc0c-ba11660f232d.jpeg.jpg",
     "description": ""
   },
@@ -181,14 +181,6 @@
     "category": "عصائر طبيعية",
     "price": 4500,
     "imageUrl": "/assets/images/1764851600767-fbcf97d3-c188-48bb-bd7a-8a58c591e6ba.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773988,
-    "name": "مكس فواكه",
-    "category": "عصائر طبيعية",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764852009221-94ebdd22-b609-462d-9b5e-9815a4a715c5.jpeg.jpg",
     "description": ""
   },
   {
@@ -592,14 +584,6 @@
     "description": ""
   },
   {
-    "id": 1764769773988,
-    "name": "مكس فواكه",
-    "category": "عصائر طبيعية",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764852009221-94ebdd22-b609-462d-9b5e-9815a4a715c5.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769774066,
     "name": "سموذي بلو بيري",
     "category": "سموذي",
@@ -629,14 +613,6 @@
     "category": "سموذي",
     "price": 4000,
     "imageUrl": "/assets/images/1764854379637-c9e3799a-c252-4284-bc8f-0ce43be07e26.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774473,
-    "name": "سموذي خوخ",
-    "category": "سموذي",
-    "price": 4000,
-    "imageUrl": "/assets/images/1764854398275-a2e7e680-e8fd-4c72-b1f0-4967ca325330.jpeg.jpg",
     "description": ""
   },
   {
@@ -933,14 +909,6 @@
     "category": "العاب",
     "price": 10000,
     "imageUrl": "",
-    "description": ""
-  },
-  {
-    "id": 1764769774473,
-    "name": "سموذي خوخ",
-    "category": "سموذي",
-    "price": 4000,
-    "imageUrl": "/assets/images/1764854398275-a2e7e680-e8fd-4c72-b1f0-4967ca325330.jpeg.jpg",
     "description": ""
   },
   {
@@ -1280,14 +1248,6 @@
     "description": ""
   },
   {
-    "id": 1764769774178,
-    "name": "صاج برجر",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856133327-6d3c7c74-d461-4549-9e68-cf42091b557d.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769773801,
     "name": "سيزر سلط",
     "category": "اطعمه",
@@ -1309,14 +1269,6 @@
     "category": "اطعمه",
     "price": 5000,
     "imageUrl": "/assets/images/1764856240441-d2efe1cd-386c-4222-88d0-b98b0b77b158.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774178,
-    "name": "صاج برجر",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856133327-6d3c7c74-d461-4549-9e68-cf42091b557d.jpeg.jpg",
     "description": ""
   },
   {
@@ -1405,6 +1357,30 @@
     "category": "العاب",
     "price": 15000,
     "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765219729854,
+    "name": "صاج بركر",
+    "category": "اطعمه",
+    "price": 6000,
+    "imageUrl": "/assets/images/1765219727054-9d64cc65-79c7-495a-bed2-6c2ad034811f.jpeg.jpg",
+    "description": ""
+  },
+  {
+    "id": 1765219866429,
+    "name": "سموذي خوخ",
+    "category": "سموذي",
+    "price": 4000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765219951953,
+    "name": "مكس فواكه",
+    "category": "عصائر طبيعية",
+    "price": 5000,
+    "imageUrl": "/assets/images/1765219949621-d94eb5c2-a092-4be3-b17c-47e03b660639.jpeg.jpg",
     "description": ""
   }
 ]
