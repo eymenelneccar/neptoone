@@ -484,7 +484,7 @@
     "name": "كريب نبتون",
     "category": "حلويات",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "/assets/images/1765221065621-0542fcfb-ea51-417f-8688-338e1b43d969.jpeg.jpg",
     "description": ""
   },
   {
@@ -508,7 +508,7 @@
     "name": "وافل نبتون",
     "category": "حلويات",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "/assets/images/1765221111734-87574303-503c-4ca4-919f-41d813b74868.jpeg.jpg",
     "description": ""
   },
   {
@@ -572,7 +572,7 @@
     "name": "ميلك شيك نبتون",
     "category": "ميلك شيك",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "/assets/images/1765221211357-dd230098-83d4-451f-8d2d-7ac96c8f6cd9.jpeg.jpg",
     "description": ""
   },
   {
@@ -644,7 +644,7 @@
     "name": "سموذي نبتون",
     "category": "سموذي",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "/assets/images/1765221318836-c7a7de38-cbf0-4482-bb97-39b131da8103.jpeg.jpg",
     "description": ""
   },
   {
@@ -1380,7 +1380,7 @@
     "name": "لاتيه",
     "category": "مشروبات ساخنة",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "/assets/images/1765220948305-1e695c3b-2c87-47b7-ba95-0781605e9c83.jpeg.jpg",
     "description": ""
   }
 ]
