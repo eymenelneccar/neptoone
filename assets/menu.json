@@ -267,7 +267,7 @@
     "id": 1764769773710,
     "name": "كابتشينو",
     "category": "مشروبات ساخنة",
-    "price": 2000,
+    "price": 3000,
     "imageUrl": "/assets/images/1764857789612-e85cd028-8cfa-417a-9713-0116764f5f93.jpeg.jpg",
     "description": ""
   },
@@ -1381,6 +1381,14 @@
     "category": "عصائر طبيعية",
     "price": 5000,
     "imageUrl": "/assets/images/1765219949621-d94eb5c2-a092-4be3-b17c-47e03b660639.jpeg.jpg",
+    "description": ""
+  },
+  {
+    "id": 1765220014767,
+    "name": "لاتيه",
+    "category": "مشروبات ساخنة",
+    "price": 3000,
+    "imageUrl": "",
     "description": ""
   }
 ]
