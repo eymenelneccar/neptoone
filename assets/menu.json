@@ -1,13 +1,5 @@
 [
   {
-    "id": 1764436369327,
-    "name": "ايس لاتيه",
-    "category": "مشروبات باردة",
-    "price": 3000,
-    "imageUrl": "/assets/images/1764850499748-df6e503c-7f68-4f2f-87a1-24ab12b13d40.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764436369306,
     "name": "ايس لاتيه فانيلا",
     "category": "مشروبات باردة",
@@ -459,7 +451,7 @@
     "id": 1764769773956,
     "name": "ايس لاتيه",
     "category": "مشروبات باردة",
-    "price": 4500,
+    "price": 4000,
     "imageUrl": "/assets/images/1764853042392-95707fd7-92fd-4ebc-9e1c-6617d7d753bd.jpeg.jpg",
     "description": ""
   },
