@@ -1646,5 +1646,45 @@
     "price": 4000,
     "imageUrl": "",
     "description": ""
+  },
+  {
+    "id": 1765452612449,
+    "name": "بركر دايت",
+    "category": "وجبات طعام دايت",
+    "price": 6000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452656242,
+    "name": "صاج بركر دايت شوفان",
+    "category": "وجبات طعام دايت",
+    "price": 5500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452693733,
+    "name": "تويستر ستيك دجاج مشوي",
+    "category": "وجبات طعام دايت",
+    "price": 7000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452722774,
+    "name": "سيزر سلط",
+    "category": "وجبات طعام دايت",
+    "price": 5000,
+    "imageUrl": "/assets/images/1765452720670-1764856228037-4cdc4a30-2993-43b1-be03-77959f2d48ed.jpeg.jpg",
+    "description": ""
+  },
+  {
+    "id": 1765452756608,
+    "name": "تونا سلط",
+    "category": "وجبات طعام دايت",
+    "price": 5000,
+    "imageUrl": "/assets/images/1765452755342-download5.jpeg.jpg",
+    "description": ""
   }
 ]
