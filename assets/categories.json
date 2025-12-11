@@ -12,6 +12,12 @@
     "height": 48
   },
   {
+    "name": "باريستا بارد",
+    "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
     "name": "عصائر طبيعية",
     "imageUrl": "/assets/images/1764856431894-0ce7c34b-ad81-4bf5-8306-c9deed00dfd9.jpeg.jpg",
     "span": 1,
@@ -80,6 +86,12 @@
   {
     "name": "اطعمه",
     "imageUrl": "/assets/images/1764857353850-1608d2c9-eac7-493a-9f9b-66416df05efc.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "دوكان نبتون",
+    "imageUrl": "",
     "span": 1,
     "height": 48
   }
