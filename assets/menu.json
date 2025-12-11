@@ -921,16 +921,16 @@
   },
   {
     "id": 1764769774415,
-    "name": "4 ساعات VIP - PC",
-    "category": "العاب",
+    "name": "4 ساعات VIP",
+    "category": "مشروبات باردة",
     "price": 13000,
     "imageUrl": "",
     "description": ""
   },
   {
     "id": 1764769773933,
-    "name": "4 ساعات PC",
-    "category": "العاب",
+    "name": "4 ساعات عادي",
+    "category": "مشروبات باردة",
     "price": 10000,
     "imageUrl": "",
     "description": ""
@@ -987,7 +987,7 @@
     "id": 1764769773783,
     "name": "اركيلة تفاحتين",
     "category": "الاراكيل",
-    "price": 7500,
+    "price": 7000,
     "imageUrl": "/assets/images/1765220531041-a6249039-1ade-4401-b47c-e675b1c9ae1b.jpeg.jpg",
     "description": ""
   },
