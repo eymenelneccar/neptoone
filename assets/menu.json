@@ -1088,214 +1088,6 @@
     "description": ""
   },
   {
-    "id": 1764769774205,
-    "name": "ريزو اعشاب",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764855746187-a88ca3c0-acde-4dbf-af4c-6660112c072c.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773701,
-    "name": "ريزو مدخن",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764855811250-58f5b863-b1f1-45b9-b9cd-4d60743486d2.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773969,
-    "name": "ريزو جبن",
-    "category": "اطعمه",
-    "price": 5500,
-    "imageUrl": "/assets/images/1764855792846-81d17e58-145e-4fb6-9fcf-bb102afb5166.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774159,
-    "name": "ريزو كلاسك",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764855768705-33fecb9b-d1d5-4223-b039-7fabb2d50f3f.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774498,
-    "name": "كلاسيك هوت دوج",
-    "category": "اطعمه",
-    "price": 1500,
-    "imageUrl": "/assets/images/1764855867733-25f5f287-3a38-407a-a03b-9352302d54fc.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773932,
-    "name": "نبتون هوت دوج",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764855875962-39e733f9-4277-446e-8930-c35700fbe24e.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774602,
-    "name": "صدر دجاج دايت",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764855907899-d81d709e-bb0b-490a-9149-14a7270045fc.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773842,
-    "name": "برجر مشروم",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856019994-6bbb6cc0-b81e-4798-9ec2-d631ab265183.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774133,
-    "name": "برجر جبن",
-    "category": "اطعمه",
-    "price": 5500,
-    "imageUrl": "/assets/images/1764855997466-16d4fff4-c654-43ef-85e3-a29c36ba1eed.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774309,
-    "name": "برجر كلاسك",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764855986200-9f1dbe67-f07b-4813-b7e9-775b85c2bb24.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774335,
-    "name": "برجر هالبينو",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764855968878-70ba74a0-9f2b-4a63-b6de-aeb884a1a40e.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774100,
-    "name": "سموكي برجر",
-    "category": "اطعمه",
-    "price": 5500,
-    "imageUrl": "/assets/images/1764856008372-9f304e89-ea71-4ebb-bfdc-279df0460d7b.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774403,
-    "name": "دوريتوس برجر",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764855947198-0f249aa3-8227-4907-af46-8da2758a6cdb.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774386,
-    "name": "دبل نبتون برجر",
-    "category": "اطعمه",
-    "price": 8000,
-    "imageUrl": "/assets/images/1764855959248-18f420bf-0faa-422e-8373-d7b995fe6d31.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774329,
-    "name": "فنكر",
-    "category": "اطعمه",
-    "price": 2500,
-    "imageUrl": "/assets/images/1764856067899-3db7f077-5d3e-48f2-914b-f36d20e53bfd.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774326,
-    "name": "فنكر جبن",
-    "category": "اطعمه",
-    "price": 3500,
-    "imageUrl": "/assets/images/1764856077739-e27b94cc-371a-4e10-b324-5d2cf3d1701d.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774682,
-    "name": "فنكر دوريتوس",
-    "category": "اطعمه",
-    "price": 4000,
-    "imageUrl": "/assets/images/1764856057460-428eedfa-48ca-4166-a8c6-b130f2bbb792.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774099,
-    "name": "صاج على الكرل",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856157892-d7fe76b2-7e17-48ab-bfa3-6b387c7d4f72.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773801,
-    "name": "سيزر سلط",
-    "category": "اطعمه",
-    "price": 3000,
-    "imageUrl": "/assets/images/1764856228037-4cdc4a30-2993-43b1-be03-77959f2d48ed.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774643,
-    "name": "سيزر سلط دجاج",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764856217199-e1eedb6d-597c-4693-98cc-15b73ebda757.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774179,
-    "name": "2 قطع ستربس",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764856240441-d2efe1cd-386c-4222-88d0-b98b0b77b158.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773872,
-    "name": "ستربس 5 قطع",
-    "category": "اطعمه",
-    "price": 7000,
-    "imageUrl": "/assets/images/1764856251685-c0f2e15f-1ffa-4559-be1c-309978bd92cb.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773965,
-    "name": "فاهيتا دجاج",
-    "category": "اطعمه",
-    "price": 5500,
-    "imageUrl": "/assets/images/1764856306661-666cc344-772d-4123-9851-b736001573ee.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774154,
-    "name": "زنجر",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764856277559-286e2baf-1f82-4282-8a4b-3d661dfb432e.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774084,
-    "name": "تشيكن راب",
-    "category": "اطعمه",
-    "price": 5000,
-    "imageUrl": "/assets/images/1764856294494-df726085-c0e6-4697-9dc8-2190bf3856c1.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769773775,
-    "name": "صحن رز",
-    "category": "اطعمه",
-    "price": 2000,
-    "imageUrl": "/assets/images/1764856328652-d878c2d0-2082-4460-a409-2e99f7465534.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764860934494,
     "name": "لافندر تي",
     "category": "مشروبات باردة",
@@ -1341,14 +1133,6 @@
     "category": "العاب",
     "price": 15000,
     "imageUrl": "",
-    "description": ""
-  },
-  {
-    "id": 1765219729854,
-    "name": "صاج بركر",
-    "category": "اطعمه",
-    "price": 6000,
-    "imageUrl": "/assets/images/1765219727054-9d64cc65-79c7-495a-bed2-6c2ad034811f.jpeg.jpg",
     "description": ""
   },
   {
@@ -1420,7 +1204,7 @@
     "name": "كرزات مشكل",
     "category": "دوكان نبتون",
     "price": 3000,
-    "imageUrl": "/assets/images/1765452977691-download7.jpeg.jpg",
+    "imageUrl": "",
     "description": ""
   },
   {
@@ -1428,7 +1212,7 @@
     "name": "صحن فواكه",
     "category": "دوكان نبتون",
     "price": 5000,
-    "imageUrl": "/assets/images/1765452970417-images.jpeg.jpg",
+    "imageUrl": "",
     "description": ""
   },
   {
@@ -1436,7 +1220,7 @@
     "name": "كوب سلطة فواكه",
     "category": "دوكان نبتون",
     "price": 3000,
-    "imageUrl": "/assets/images/1765452962718-download6.jpeg.jpg",
+    "imageUrl": "",
     "description": ""
   },
   {
@@ -1452,7 +1236,7 @@
     "name": "كاسة رمان",
     "category": "دوكان نبتون",
     "price": 2500,
-    "imageUrl": "/assets/images/1765452954149-download8.jpeg.jpg",
+    "imageUrl": "",
     "description": ""
   },
   {
@@ -1645,6 +1429,46 @@
     "category": "وجبات طعام",
     "price": 4000,
     "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452612449,
+    "name": "بركر دايت",
+    "category": "وجبات طعام دايت",
+    "price": 6000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452656242,
+    "name": "صاج بركر دايت شوفان",
+    "category": "وجبات طعام دايت",
+    "price": 5500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452693733,
+    "name": "تويستر ستيك دجاج مشوي",
+    "category": "وجبات طعام دايت",
+    "price": 7000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765452722774,
+    "name": "سيزر سلط",
+    "category": "وجبات طعام دايت",
+    "price": 5000,
+    "imageUrl": "/assets/images/1765452720670-1764856228037-4cdc4a30-2993-43b1-be03-77959f2d48ed.jpeg.jpg",
+    "description": ""
+  },
+  {
+    "id": 1765452756608,
+    "name": "تونا سلط",
+    "category": "وجبات طعام دايت",
+    "price": 5000,
+    "imageUrl": "/assets/images/1765452755342-download5.jpeg.jpg",
     "description": ""
   }
 ]
