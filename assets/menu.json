@@ -2,32 +2,32 @@
   {
     "id": 1764436369306,
     "name": "ايس لاتيه فانيلا",
-    "category": "مشروبات باردة",
-    "price": 3500,
+    "category": "باريستا بارد",
+    "price": 4500,
     "imageUrl": "/assets/images/1764850565764-f9b72abf-5e5e-4df8-86e2-1c87a78f1acb.jpeg.jpg",
     "description": ""
   },
   {
     "id": 1764436370031,
     "name": "ايس لاتيه كراميل",
-    "category": "مشروبات باردة",
-    "price": 3500,
+    "category": "باريستا بارد",
+    "price": 4500,
     "imageUrl": "/assets/images/1764850688948-96e79e10-6bf8-40de-a975-b4bd2dbb7e78.jpeg.jpg",
     "description": ""
   },
   {
     "id": 1764436369341,
     "name": "ايس لاتيه بندق",
-    "category": "مشروبات باردة",
-    "price": 3500,
+    "category": "باريستا بارد",
+    "price": 4500,
     "imageUrl": "/assets/images/1764850606269-7b6203be-73c1-4627-913d-7611a9313f08.jpeg.jpg",
     "description": ""
   },
   {
     "id": 1764436369703,
     "name": "ايس لاتيه بستاشيو",
-    "category": "مشروبات باردة",
-    "price": 4000,
+    "category": "باريستا بارد",
+    "price": 4500,
     "imageUrl": "/assets/images/1764850667290-f029ee51-e137-4431-a127-45d809e9b01b.jpeg.jpg",
     "description": ""
   },
@@ -56,14 +56,6 @@
     "description": ""
   },
   {
-    "id": 1764769774396,
-    "name": "جنجر تي",
-    "category": "مشروبات باردة",
-    "price": 0,
-    "imageUrl": "/assets/images/1764850984556-a93e137c-b9f7-40d4-898f-c7f90dc182c8.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769774363,
     "name": "ايس تي كلاسك",
     "category": "مشروبات باردة",
@@ -73,7 +65,7 @@
   },
   {
     "id": 1764769774446,
-    "name": "نبتون",
+    "name": "نبتون ايس تي",
     "category": "مشروبات باردة",
     "price": 3000,
     "imageUrl": "/assets/images/1765220757520-ebd2e129-f3c4-4e0a-a57a-40ba7b5ac495.jpeg.jpg",
@@ -115,7 +107,7 @@
     "id": 1764769773675,
     "name": "سحلب",
     "category": "مشروبات ساخنة",
-    "price": 4000,
+    "price": 3500,
     "imageUrl": "/assets/images/1764851376574-bcd80835-4002-4115-a5be-77ed73e361b1.jpeg.jpg",
     "description": ""
   },
@@ -235,7 +227,7 @@
     "id": 1764769773750,
     "name": "اسبريسو دبل",
     "category": "مشروبات ساخنة",
-    "price": 4000,
+    "price": 4500,
     "imageUrl": "/assets/images/1764856864998-b56ab09b-e784-46f8-8e52-30ff9d853e8e.jpeg.jpg",
     "description": ""
   },
@@ -434,7 +426,7 @@
   {
     "id": 1764769773602,
     "name": "ايس كراميل مكياتو",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 4500,
     "imageUrl": "/assets/images/1764852972242-b7d2a430-5b41-4363-b669-e517df3e9fd6.jpeg.jpg",
     "description": ""
@@ -442,7 +434,7 @@
   {
     "id": 1764769774299,
     "name": "ايس موكا",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 4000,
     "imageUrl": "/assets/images/1764853003718-12acba87-e54a-4875-b12b-d6e9ad8a1f05.jpeg.jpg",
     "description": ""
@@ -450,7 +442,7 @@
   {
     "id": 1764769773956,
     "name": "ايس لاتيه",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 4000,
     "imageUrl": "/assets/images/1764853042392-95707fd7-92fd-4ebc-9e1c-6617d7d753bd.jpeg.jpg",
     "description": ""
@@ -458,7 +450,7 @@
   {
     "id": 1764769774038,
     "name": "ايس امريكانو",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 4000,
     "imageUrl": "/assets/images/1764853053164-2358f6dd-7ac6-4ec7-8ee5-e499a7cf5376.jpeg.jpg",
     "description": ""
@@ -714,7 +706,7 @@
   {
     "id": 1764769774192,
     "name": "فرابتشينو تشوكليت",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 5000,
     "imageUrl": "/assets/images/1764855021448-2c953ea9-d6a1-41d3-9898-b3f100e5059c.jpeg.jpg",
     "description": ""
@@ -722,7 +714,7 @@
   {
     "id": 1764769774106,
     "name": "فرابتشينو فانيلا",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 5000,
     "imageUrl": "/assets/images/1764855143560-86914f58-9bd7-4f29-a60d-4eb7a42bc54e.jpeg.jpg",
     "description": ""
@@ -738,7 +730,7 @@
   {
     "id": 1764769773863,
     "name": "فرابتشينو لوتس",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 5000,
     "imageUrl": "/assets/images/1764855298640-5eede063-4e1e-4eb5-ace3-bdce31e6b812.jpeg.jpg",
     "description": ""
@@ -746,7 +738,7 @@
   {
     "id": 1764769774513,
     "name": "فرابتشينو كوكيز",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 5000,
     "imageUrl": "/assets/images/1764855322416-0c64e245-9baa-4085-837f-fa051e5eaafe.jpeg.jpg",
     "description": ""
@@ -754,7 +746,7 @@
   {
     "id": 1764769773811,
     "name": "فرابتشينو نبتون",
-    "category": "مشروبات باردة",
+    "category": "باريستا بارد",
     "price": 5000,
     "imageUrl": "/assets/images/1765220880760-c2993f6c-5300-406d-b049-8b39aa48f9fa.jpeg.jpg",
     "description": ""
@@ -1307,7 +1299,7 @@
     "id": 1764860934494,
     "name": "لافندر تي",
     "category": "مشروبات باردة",
-    "price": 0,
+    "price": 3000,
     "imageUrl": "/assets/images/1764860925726-e41886ab-0c37-4ada-80db-6aae571753ae.jpeg.jpg",
     "description": ""
   },
@@ -1379,8 +1371,24 @@
     "id": 1765220014767,
     "name": "لاتيه",
     "category": "مشروبات ساخنة",
-    "price": 3000,
+    "price": 4000,
     "imageUrl": "/assets/images/1765220948305-1e695c3b-2c87-47b7-ba95-0781605e9c83.jpeg.jpg",
+    "description": ""
+  },
+  {
+    "id": 1765445062107,
+    "name": "سحلب دارسين",
+    "category": "مشروبات ساخنة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765445081200,
+    "name": "سحلب فستق",
+    "category": "مشروبات ساخنة",
+    "price": 4000,
+    "imageUrl": "",
     "description": ""
   }
 ]
