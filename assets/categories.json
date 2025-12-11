@@ -54,12 +54,6 @@
     "height": 48
   },
   {
-    "name": "اطعمه",
-    "imageUrl": "/assets/images/1764857353850-1608d2c9-eac7-493a-9f9b-66416df05efc.jpeg.jpg",
-    "span": 1,
-    "height": 48
-  },
-  {
     "name": "دوكان نبتون",
     "imageUrl": "",
     "span": 1,
@@ -74,6 +68,12 @@
   {
     "name": "وجبات طعام دايت",
     "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "بليارد",
+    "imageUrl": "/assets/images/1764857593925-d3ff462d-f58d-4805-b603-11f4465e2d05.jpeg.jpg",
     "span": 1,
     "height": 48
   }
