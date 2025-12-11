@@ -754,7 +754,7 @@
   {
     "id": 1764769773720,
     "name": "SNIKEERS",
-    "category": "نساتل",
+    "category": "دوكان نبتون",
     "price": 1000,
     "imageUrl": "/assets/images/1764855416362-1e09d289-f457-4dfe-ba82-d05768b5848c.jpeg.jpg",
     "description": ""
@@ -762,7 +762,7 @@
   {
     "id": 1764769774395,
     "name": "KITKAT",
-    "category": "نساتل",
+    "category": "دوكان نبتون",
     "price": 1000,
     "imageUrl": "/assets/images/1764855382493-c81b9181-2fbb-49b1-9c3b-cdb7be7a7088.jpeg.jpg",
     "description": ""
@@ -778,7 +778,7 @@
   {
     "id": 1764769774383,
     "name": "MARS",
-    "category": "نساتل",
+    "category": "دوكان نبتون",
     "price": 1000,
     "imageUrl": "/assets/images/1764855397341-fd6dbe27-6de7-4c7a-b20f-22044e26f8e4.jpeg.jpg",
     "description": ""
@@ -786,7 +786,7 @@
   {
     "id": 1764769774094,
     "name": "KINDER",
-    "category": "نساتل",
+    "category": "دوكان نبتون",
     "price": 1000,
     "imageUrl": "/assets/images/1764855405951-a864002c-88ff-42a5-8f48-b4c131a59216.jpeg.jpg",
     "description": ""
@@ -810,7 +810,7 @@
   {
     "id": 1764769773802,
     "name": "دوريتوس",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 1500,
     "imageUrl": "/assets/images/1764855665334-054e8c9a-7974-43ca-a460-4640fbba5ecf.jpeg.jpg",
     "description": ""
@@ -818,7 +818,7 @@
   {
     "id": 1764769774321,
     "name": "برنكلز",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 1500,
     "imageUrl": "/assets/images/1764855553272-8832d161-1ecc-4070-9329-be8e040068ec.jpeg.jpg",
     "description": ""
@@ -826,7 +826,7 @@
   {
     "id": 1764769774220,
     "name": "ليز",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 1500,
     "imageUrl": "/assets/images/1764855570157-c6904e57-c0e9-4152-8880-c51b3b762e60.jpeg.jpg",
     "description": ""
@@ -834,7 +834,7 @@
   {
     "id": 1764769774105,
     "name": "جبس الكرادة",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 3000,
     "imageUrl": "/assets/images/1764855578588-6f0f12e8-0c1b-4a2f-91c6-d7c350e5fbd6.jpeg.jpg",
     "description": ""
@@ -842,7 +842,7 @@
   {
     "id": 1764769774302,
     "name": "شامية",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 1000,
     "imageUrl": "/assets/images/1764855562141-163b4184-aa9f-4e90-bf1a-bef556d4ba03.jpeg.jpg",
     "description": ""
@@ -850,7 +850,7 @@
   {
     "id": 1764769774524,
     "name": "ناجوز",
-    "category": "جيبس",
+    "category": "دوكان نبتون",
     "price": 2500,
     "imageUrl": "/assets/images/1764855654786-96aaddd6-ed33-4b4b-a68c-544cc3304f98.jpeg.jpg",
     "description": ""
@@ -858,7 +858,7 @@
   {
     "id": 1764769773841,
     "name": "لبلبي",
-    "category": "مأكولات شتوية",
+    "category": "دوكان نبتون",
     "price": 1500,
     "imageUrl": "/assets/images/1764855717754-f19654b2-0e84-453c-b42e-47e9ab9f355d.jpeg.jpg",
     "description": ""
@@ -1412,6 +1412,46 @@
     "name": "ميلك شيك اوريو",
     "category": "ميلك شيك",
     "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765448205309,
+    "name": "كرزات مشكل",
+    "category": "دوكان نبتون",
+    "price": 3000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765448221310,
+    "name": "صحن فواكه",
+    "category": "دوكان نبتون",
+    "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765448281744,
+    "name": "كوب سلطة فواكه",
+    "category": "دوكان نبتون",
+    "price": 3000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765448302486,
+    "name": "علج منتوس",
+    "category": "دوكان نبتون",
+    "price": 1500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1765448316898,
+    "name": "كاسة رمان",
+    "category": "دوكان نبتون",
+    "price": 2500,
     "imageUrl": "",
     "description": ""
   }
