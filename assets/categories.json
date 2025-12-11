@@ -48,12 +48,6 @@
     "height": 48
   },
   {
-    "name": "عروض PC",
-    "imageUrl": "/assets/images/1764857604717-430b7828-3f11-4a47-acb8-10a1b59229bc.jpeg.jpg",
-    "span": 1,
-    "height": 48
-  },
-  {
     "name": "الاراكيل",
     "imageUrl": "/assets/images/1764857628503-5e99589f-2607-4ea1-872e-91d3062206fa.jpeg.jpg",
     "span": 1,
@@ -68,6 +62,12 @@
   {
     "name": "دوكان نبتون",
     "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "بليارد",
+    "imageUrl": "/assets/images/1764857593925-d3ff462d-f58d-4805-b603-11f4465e2d05.jpeg.jpg",
     "span": 1,
     "height": 48
   }
