@@ -921,16 +921,16 @@
   },
   {
     "id": 1764769774415,
-    "name": "4 ساعات VIP",
-    "category": "عروض PC",
+    "name": "4 ساعات VIP - PC",
+    "category": "العاب",
     "price": 13000,
     "imageUrl": "",
     "description": ""
   },
   {
     "id": 1764769773933,
-    "name": "4 ساعات عادي",
-    "category": "عروض PC",
+    "name": "4 ساعات PC",
+    "category": "العاب",
     "price": 10000,
     "imageUrl": "",
     "description": ""
