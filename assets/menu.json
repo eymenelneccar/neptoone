@@ -112,6 +112,14 @@
     "description": ""
   },
   {
+    "id": 1764769774290,
+    "name": "دارسين فستق",
+    "category": "مشروبات ساخنة",
+    "price": 0,
+    "imageUrl": "/assets/images/1764851400092-c8c020ac-f807-4445-ad54-061c242e57b6.jpeg.jpg",
+    "description": ""
+  },
+  {
     "id": 1764769773648,
     "name": "عصير رمان",
     "category": "عصائر طبيعية",
@@ -897,8 +905,8 @@
   },
   {
     "id": 1764769774221,
-    "name": "زوجي",
-    "category": "بليارد",
+    "name": "بليارد زوجي",
+    "category": "العاب",
     "price": 8000,
     "imageUrl": "",
     "description": ""
@@ -906,10 +914,10 @@
   {
     "id": 1764769774146,
     "name": "منضدة",
-    "category": "بليارد",
-    "price": 6000,
+    "category": "العاب",
+    "price": 4000,
     "imageUrl": "",
-    "description": ""
+    "description": "نصف ساعة"
   },
   {
     "id": 1764769774415,
@@ -1321,9 +1329,9 @@
   },
   {
     "id": 1765193874921,
-    "name": "فردي",
-    "category": "بليارد",
-    "price": 5000,
+    "name": "بليارد فردي",
+    "category": "العاب",
+    "price": 6000,
     "imageUrl": "",
     "description": ""
   },
@@ -1444,14 +1452,6 @@
     "name": "كاسة رمان",
     "category": "دوكان نبتون",
     "price": 2500,
-    "imageUrl": "",
-    "description": ""
-  },
-  {
-    "id": 1765448662766,
-    "name": "ريد بول غراندين",
-    "category": "مشروبات باردة",
-    "price": 3500,
     "imageUrl": "",
     "description": ""
   }
