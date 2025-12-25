@@ -1394,7 +1394,7 @@
   {
     "id": 1766652070420,
     "name": "ايس لاتيه كوكيز",
-    "category": "باريستا بارد",
+    "category": "مشروبات باردة",
     "price": 4500,
     "imageUrl": "",
     "description": ""
@@ -1420,6 +1420,14 @@
     "name": "سحلب دارسين",
     "category": "مشروبات باردة",
     "price": 4000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766654391965,
+    "name": "موز حليب وفراولة",
+    "category": "عصائر طبيعية",
+    "price": 4500,
     "imageUrl": "",
     "description": ""
   }
