@@ -154,7 +154,7 @@
   {
     "id": 1764769774271,
     "name": "عصير موز",
-    "category": "مشروبات باردة",
+    "category": "عصائر طبيعية",
     "price": 4000,
     "imageUrl": "/assets/images/1764851547828-b5a9a5e5-86b0-475e-8e8b-e6862213ef0d.jpeg.jpg",
     "description": ""
@@ -186,7 +186,7 @@
   {
     "id": 1764769774216,
     "name": "برتقال ليمون",
-    "category": "مشروبات باردة",
+    "category": "عصائر طبيعية",
     "price": 4000,
     "imageUrl": "/assets/images/1764852133635-34c840b9-cc07-4471-a5ab-ff6bb6d1b453.jpeg.jpg",
     "description": ""
@@ -202,7 +202,7 @@
   {
     "id": 1764769774344,
     "name": "اناناس",
-    "category": "مشروبات باردة",
+    "category": "عصائر طبيعية",
     "price": 4000,
     "imageUrl": "/assets/images/1764851651731-c6e0fbc2-9544-4d05-8f49-761ac4e304e6.jpeg.jpg",
     "description": ""
@@ -210,7 +210,7 @@
   {
     "id": 1764769774545,
     "name": "بطيخ",
-    "category": "مشروبات باردة",
+    "category": "عصائر طبيعية",
     "price": 4000,
     "imageUrl": "/assets/images/1764852215401-0d1c3ec9-008f-40dd-9110-57fb07e20772.jpeg.jpg",
     "description": ""
@@ -397,14 +397,6 @@
     "category": "مشروبات باردة",
     "price": 2500,
     "imageUrl": "/assets/images/1764852917297-b3008223-18a5-4aae-9b4a-bd4e077888e7.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774484,
-    "name": "ريدبول غراندين",
-    "category": "مشروبات باردة",
-    "price": 3500,
-    "imageUrl": "/assets/images/1764852853276-bd39949a-bd7c-4e6c-8d7b-e1efbd704458.jpeg.jpg",
     "description": ""
   },
   {
@@ -901,14 +893,6 @@
     "category": "دوكان نبتون",
     "price": 1500,
     "imageUrl": "/assets/images/1764855717754-f19654b2-0e84-453c-b42e-47e9ab9f355d.jpeg.jpg",
-    "description": ""
-  },
-  {
-    "id": 1764769774484,
-    "name": "ريدبول غراندين",
-    "category": "مشروبات باردة",
-    "price": 3500,
-    "imageUrl": "/assets/images/1764852853276-bd39949a-bd7c-4e6c-8d7b-e1efbd704458.jpeg.jpg",
     "description": ""
   },
   {
