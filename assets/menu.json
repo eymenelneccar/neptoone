@@ -913,7 +913,7 @@
   },
   {
     "id": 1764769774641,
-    "name": "غرقة VIP",
+    "name": "غرقة VIP احمد راضي وبيليه",
     "category": "العاب",
     "price": 10000,
     "imageUrl": "",
@@ -1564,6 +1564,30 @@
     "name": "شاي كرك استكان",
     "category": "مشروبات ساخنة",
     "price": 2000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658523537,
+    "name": "غرفة سينما 007",
+    "category": "العاب",
+    "price": 15000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658561848,
+    "name": "صمون اضافي 3 قطع",
+    "category": "وجبات طعام",
+    "price": 500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658580364,
+    "name": "صلصة اضافية",
+    "category": "وجبات طعام",
+    "price": 500,
     "imageUrl": "",
     "description": ""
   }
