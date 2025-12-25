@@ -1,13 +1,5 @@
 [
   {
-    "id": 1764436369327,
-    "name": "ايس لاتيه",
-    "category": "باريستا بارد",
-    "price": 4000,
-    "imageUrl": "/assets/images/1764850499748-df6e503c-7f68-4f2f-87a1-24ab12b13d40.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764436369306,
     "name": "ايس لاتيه فانيلا",
     "category": "باريستا بارد",
@@ -19,7 +11,7 @@
     "id": 1764436370031,
     "name": "ايس لاتيه كراميل",
     "category": "باريستا بارد",
-    "price": 3500,
+    "price": 4500,
     "imageUrl": "/assets/images/1764850688948-96e79e10-6bf8-40de-a975-b4bd2dbb7e78.jpeg.jpg",
     "description": ""
   },
@@ -35,7 +27,7 @@
     "id": 1764436369703,
     "name": "ايس لاتيه بستاشيو",
     "category": "باريستا بارد",
-    "price": 4000,
+    "price": 4500,
     "imageUrl": "/assets/images/1764850667290-f029ee51-e137-4431-a127-45d809e9b01b.jpeg.jpg",
     "description": ""
   },
@@ -459,7 +451,7 @@
     "id": 1764769773956,
     "name": "ايس لاتيه",
     "category": "باريستا بارد",
-    "price": 4500,
+    "price": 4000,
     "imageUrl": "/assets/images/1764853042392-95707fd7-92fd-4ebc-9e1c-6617d7d753bd.jpeg.jpg",
     "description": ""
   },
@@ -1396,6 +1388,14 @@
     "name": "استكان حامض",
     "category": "مشروبات ساخنة",
     "price": 1000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766652070420,
+    "name": "ايس لاتيه كوكيز",
+    "category": "باريستا بارد",
+    "price": 4500,
     "imageUrl": "",
     "description": ""
   }
