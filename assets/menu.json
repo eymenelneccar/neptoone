@@ -1184,14 +1184,6 @@
     "description": ""
   },
   {
-    "id": 1764769774602,
-    "name": "صدر دجاج",
-    "category": "وجبات طعام دايت",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764855907899-d81d709e-bb0b-490a-9149-14a7270045fc.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769773842,
     "name": "برجر مشروم",
     "category": "وجبات طعام",
@@ -1516,6 +1508,38 @@
     "name": "فنكر نيتون ( مع قطع دجاج مقرمش )",
     "category": "وجبات طعام",
     "price": 4000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658133168,
+    "name": "بركر دايت",
+    "category": "وجبات طعام دايت",
+    "price": 6000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658158548,
+    "name": "صاج بركر دايت - شوفان",
+    "category": "وجبات طعام دايت",
+    "price": 5500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658178279,
+    "name": "سندويج ستيك دجاج",
+    "category": "وجبات طعام دايت",
+    "price": 7000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658192123,
+    "name": "تونا سلط",
+    "category": "وجبات طعام دايت",
+    "price": 5000,
     "imageUrl": "",
     "description": ""
   }
