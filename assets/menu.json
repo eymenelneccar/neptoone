@@ -1550,5 +1550,21 @@
     "price": 6000,
     "imageUrl": "",
     "description": ""
+  },
+  {
+    "id": 1766658424998,
+    "name": "شاي كرك كوب",
+    "category": "مشروبات ساخنة",
+    "price": 3000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658457064,
+    "name": "شاي كرك استكان",
+    "category": "مشروبات ساخنة",
+    "price": 2000,
+    "imageUrl": "",
+    "description": ""
   }
 ]
