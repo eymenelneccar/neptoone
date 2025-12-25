@@ -1027,7 +1027,7 @@
     "id": 1764769773783,
     "name": "اركيلة تفاحتين",
     "category": "الاراكيل",
-    "price": 7500,
+    "price": 7000,
     "imageUrl": "",
     "description": ""
   },
@@ -1452,6 +1452,14 @@
     "name": "ميلك شيك اوريو",
     "category": "ميلك شيك",
     "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657233808,
+    "name": "اركيلة ايس كريم",
+    "category": "الاراكيل",
+    "price": 7000,
     "imageUrl": "",
     "description": ""
   }
