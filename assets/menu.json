@@ -1243,7 +1243,7 @@
     "id": 1764769774329,
     "name": "فنكر",
     "category": "وجبات طعام",
-    "price": 2500,
+    "price": 2000,
     "imageUrl": "/assets/images/1764856067899-3db7f077-5d3e-48f2-914b-f36d20e53bfd.jpeg.jpg",
     "description": ""
   },
@@ -1251,7 +1251,7 @@
     "id": 1764769774326,
     "name": "فنكر جبن",
     "category": "وجبات طعام",
-    "price": 3500,
+    "price": 2500,
     "imageUrl": "/assets/images/1764856077739-e27b94cc-371a-4e10-b324-5d2cf3d1701d.jpeg.jpg",
     "description": ""
   },
@@ -1508,6 +1508,14 @@
     "name": "ريزو سبايسي",
     "category": "وجبات طعام",
     "price": 5500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766658065032,
+    "name": "فنكر نيتون ( مع قطع دجاج مقرمش )",
+    "category": "وجبات طعام",
+    "price": 4000,
     "imageUrl": "",
     "description": ""
   }
