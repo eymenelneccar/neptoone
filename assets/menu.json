@@ -115,7 +115,7 @@
     "id": 1764769773675,
     "name": "سحلب",
     "category": "مشروبات ساخنة",
-    "price": 4000,
+    "price": 3500,
     "imageUrl": "/assets/images/1764851376574-bcd80835-4002-4115-a5be-77ed73e361b1.jpeg.jpg",
     "description": ""
   },
@@ -1404,6 +1404,22 @@
     "name": "لبن",
     "category": "مشروبات باردة",
     "price": 500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766653118741,
+    "name": "سحلب فستق",
+    "category": "مشروبات ساخنة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766653144580,
+    "name": "سحلب دارسين",
+    "category": "مشروبات باردة",
+    "price": 4000,
     "imageUrl": "",
     "description": ""
   }
