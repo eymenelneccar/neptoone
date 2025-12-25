@@ -1131,7 +1131,7 @@
     "id": 1764769774205,
     "name": "ريزو اعشاب",
     "category": "وجبات طعام",
-    "price": 5000,
+    "price": 5500,
     "imageUrl": "/assets/images/1764855746187-a88ca3c0-acde-4dbf-af4c-6660112c072c.jpeg.jpg",
     "description": ""
   },
@@ -1171,7 +1171,7 @@
     "id": 1764769774498,
     "name": "كلاسيك هوت دوج",
     "category": "وجبات طعام",
-    "price": 1500,
+    "price": 3500,
     "imageUrl": "/assets/images/1764855867733-25f5f287-3a38-407a-a03b-9352302d54fc.jpeg.jpg",
     "description": ""
   },
@@ -1216,16 +1216,8 @@
     "description": ""
   },
   {
-    "id": 1764769774335,
-    "name": "برجر هالبينو",
-    "category": "وجبات طعام",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764855968878-70ba74a0-9f2b-4a63-b6de-aeb884a1a40e.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769774100,
-    "name": "سموكي برجر",
+    "name": "بيكن بركر",
     "category": "وجبات طعام",
     "price": 5500,
     "imageUrl": "/assets/images/1764856008372-9f304e89-ea71-4ebb-bfdc-279df0460d7b.jpeg.jpg",
@@ -1235,7 +1227,7 @@
     "id": 1764769774403,
     "name": "دوريتوس برجر",
     "category": "وجبات طعام",
-    "price": 6000,
+    "price": 5500,
     "imageUrl": "/assets/images/1764855947198-0f249aa3-8227-4907-af46-8da2758a6cdb.jpeg.jpg",
     "description": ""
   },
@@ -1280,14 +1272,6 @@
     "description": ""
   },
   {
-    "id": 1764769774178,
-    "name": "صاج برجر",
-    "category": "وجبات طعام",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856133327-6d3c7c74-d461-4549-9e68-cf42091b557d.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769773801,
     "name": "سيزر سلط",
     "category": "سيزر",
@@ -1305,25 +1289,17 @@
   },
   {
     "id": 1764769774179,
-    "name": "2 قطع ستربس",
+    "name": "وجبة ستربس 3 قطع",
     "category": "وجبات طعام",
-    "price": 5000,
+    "price": 5500,
     "imageUrl": "/assets/images/1764856240441-d2efe1cd-386c-4222-88d0-b98b0b77b158.jpeg.jpg",
     "description": ""
   },
   {
-    "id": 1764769774178,
-    "name": "صاج برجر",
-    "category": "وجبات طعام",
-    "price": 6000,
-    "imageUrl": "/assets/images/1764856133327-6d3c7c74-d461-4549-9e68-cf42091b557d.jpeg.jpg",
-    "description": ""
-  },
-  {
     "id": 1764769773872,
-    "name": "ستربس 5 قطع",
+    "name": "وجبة ستربس 5 قطع",
     "category": "وجبات طعام",
-    "price": 7000,
+    "price": 8000,
     "imageUrl": "/assets/images/1764856251685-c0f2e15f-1ffa-4559-be1c-309978bd92cb.jpeg.jpg",
     "description": ""
   },
@@ -1492,6 +1468,46 @@
     "name": "كرزات مشكل",
     "category": "دوكان نبتون",
     "price": 3000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657714900,
+    "name": "باربيكيو برجر",
+    "category": "وجبات طعام",
+    "price": 5500,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657751319,
+    "name": "صاج يرجر",
+    "category": "وجبات طعام",
+    "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657838553,
+    "name": "وجبة فلر دجاج",
+    "category": "وجبات طعام",
+    "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657866603,
+    "name": "تويستر",
+    "category": "وجبات طعام",
+    "price": 5000,
+    "imageUrl": "",
+    "description": ""
+  },
+  {
+    "id": 1766657931093,
+    "name": "ريزو سبايسي",
+    "category": "وجبات طعام",
+    "price": 5500,
     "imageUrl": "",
     "description": ""
   }
