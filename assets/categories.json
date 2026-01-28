@@ -1,0 +1,74 @@
+[
+  {
+    "name": "مشروبات باردة",
+    "imageUrl": "/assets/images/1764856999463-c6e0fbc2-9544-4d05-8f49-761ac4e304e6.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "مشروبات ساخنة",
+    "imageUrl": "/assets/images/1764856450532-c8c020ac-f807-4445-ad54-061c242e57b6.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "باريستا بارد",
+    "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "عصائر طبيعية",
+    "imageUrl": "/assets/images/1764856431894-0ce7c34b-ad81-4bf5-8306-c9deed00dfd9.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "حلويات",
+    "imageUrl": "/assets/images/1764857250573-29bb7fcd-6b8d-4b86-9222-f5d3da0fcc1b.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "ميلك شيك",
+    "imageUrl": "/assets/images/1764857138206-ba15e26e-6d2d-4f6c-848b-7b45f18faacb.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "سموذي",
+    "imageUrl": "/assets/images/1764857180615-80a6f2b6-c392-4a8c-8aa9-35abf1afa1b3.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "العاب وغرف VIP",
+    "imageUrl": "/assets/images/1764857645698-d3ff462d-f58d-4805-b603-11f4465e2d05.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "الاراكيل",
+    "imageUrl": "/assets/images/1764857628503-5e99589f-2607-4ea1-872e-91d3062206fa.jpeg.jpg",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "دوكان نبتون",
+    "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "وجبات طعام",
+    "imageUrl": "",
+    "span": 1,
+    "height": 48
+  },
+  {
+    "name": "وجبات طعام دايت",
+    "imageUrl": "",
+    "span": 1,
+    "height": 48
+  }
+]
